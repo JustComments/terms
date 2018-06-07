@@ -5,39 +5,62 @@ title: Privacy Policy
 
 **We try our best to minimise the data we collect.** We do not share your data with any third parties unless required to operate our service or separately agreed by you. We only use your personal data for the exact reason it was provided.
 
+In regards to you as a JustComments' account holder, JustComments acts a data controller. In regards to the users who comment using JustComments' widget that you place on your website, JustComments acts as a data processor. It means that you are required to obtain any necessary consents so that JustComments can process the data of your users. You have control over which data your users are allowed to enter via the widget, which may include the following:
+
+- user website
+- userId
+- username
+- userPic
+- userUrl (profile page URL on a 3rd party website)
+- message (comment text)
+- subscription (for push notifications)
+- userAgent
+- userOrigin
+- userReferer
+- userIp
+- userEmail (as entered by the user)
+- locale
+- timezone
+
+This data is stored as part of a user comment, meaning that we don't create user accounts for users who comment. Therefore, it might not be possible to identify if different comments are created by the same user.
+
+The following data is publicly available on the Internet along with the comments:
+
+- userId
+- username
+- userPic
+- userUrl (profile page URL on a 3rd party website)
+- message (comment text)
+
 ## Personal Information Collection
 
-By using this service, we collect private information from you. If you create an account, we are required to collect personal data from you in order to provide you with our service. **We only require a bare minimum of data** but may allow you to optionally store additional personal information to enhance your experience or personal profile page. 
+If you create an account, we are required to collect personal data from you in order to provide you with our service. **We only require a bare minimum of data** but may allow you to optionally store additional personal information to enhance your experience or personal profile page. 
 
 We may collect the following personal information: 
 
-- Contact information, such as your name, email address, mailing address, phone number or voluntarily provided biographic information
-- Demographic information, such as age, interests or location information
+- Contact information, such as your name, email address
 - Billing information, such as the billing address and VAT ID
-- Unique identifiers, such as username, account identifier or a hash of your password
-- Information about your business, such as the company name and address
-- Geographic location based on your IP address
+- Unique identifiers, such as username, account identifier, social network IDs if authorized via social networks or a hash of your password
 - Personal technical information, such as your IP address, browser information or session cookies to ensure we can securely operate the service
 
-We may also collect personal information, such as name and email address, from people that you invite or add to Colloq. Please ensure that you are allowed to provide us with this information. We will only use this information for the exact reason it was provided. In case you want your personal information removed from our database, please [contact us](/contact).
+In case you want your personal information removed from our database, please [contact us](mailto:alex@just-comments.com).
 
 **The collected personal information as described above is used for billing, identification, authentication, service operation, and to contact you.**
 
 ## Personal Information Access
 
-It is your right to access or delete the personal information we store as long as it is not in conflict with local law to retain certain information. In order to access your data, you need to log in to your account where you can download an archive of your personal information data. The archive may contain additional data for your records which might not be considered personal information. In case you can’t access your account, you can also contact us via email with a possibility to reliably identify yourself. We will respond to such request within reasonable time and remove your information as soon as possible. Please note that due to local laws to retain certain data, we may not be able to remove all of your information immediately, but will do our best to comply with your request to delete the data as soon as possible.
+It is your right to access or delete the personal information we store as long as it is not in conflict with local law to retain certain information. In order to access your data, please [contact us](mailto:alex@just-comments.com). We will respond to such request within reasonable time and provide you with a copy of your data. The archive may contain additional data for your records which might not be considered personal information.
 
 ## Information Sharing
 
 ### Server / Hosting
 
-We use [Digital Ocean](https://www.digitalocean.com/) Inc. (101 Avenue of the Americas 10th Floor, New York, NY 10013, United States of America) as a service provider to host our server infrastructure.
-We use [OVH](https://www.ovh.de/) GmbH, Dudweiler Landstraße 5, 66123 Saarbrücken, Germany to ensure our service availability. 
-While we are currently hosting our services in Frankfurt, Germany, we may expand to other server locations offered by our hosting service providers in order to ensure the reliablity and performance of our service around the world.
+We use [Amazon Web Services](https://aws.amazon.com), Inc. (410 Terry Avenue North, Seattle WA 98109, United States of America) as a service provider to host our server infrastructure.
+While we are currently hosting our services in Northern Virginia, US, we may expand to other server locations offered by our hosting service providers in order to ensure the reliablity and performance of our service around the world.
 
 ### Emails
 
-We will occasionally use your name and/or email address to send you newsletters or transactional emails. **We won’t send you newsletters unless you [signed up for them](/newsletter/subscriber;create).** We may send you transactional emails in order to fulfill our service agreement and provide you the requested information. You can opt-out of any marketing or other emails not required to operate our service safely and in compliance to laws at any time via the ‘unsubscribe’ link in each email. For sending transactional emails and newsletters we use [Amazon SES](https://aws.amazon.com/ses/) by Amazon Web Services, Inc. (410 Terry Ave North, Seattle, WA 98109-5210, United States of America), currently using their only European SES location (Ireland) for which their terms and conditions and their privacy policy applies.
+We will occasionally use your name and/or email address to send you newsletters or transactional emails. We may send you transactional emails in order to fulfill our service agreement and provide you the requested information. You can opt-out of any marketing or other emails not required to operate our service safely and in compliance to laws at any time via the ‘unsubscribe’ link in each email. For sending transactional emails we use [Amazon SES](https://aws.amazon.com/ses/) by Amazon Web Services, Inc. (410 Terry Ave North, Seattle, WA 98109-5210, United States of America), currently using their North Virginia SES location for which their terms and conditions and their privacy policy applies. For sending newsletters we use Mailjet inc, 13-13 bis, rue de l’Aubrac 75012 Paris, France.
 
 ### Analytics
 
@@ -45,21 +68,19 @@ We will occasionally use your name and/or email address to send you newsletters 
 
 ### Local Storage Information
 
-We use local storage information such as (session) cookies to allow our users to sign in and to optionally “remember” the login data or to save generic preferences of users. Our payment provider ([Stripe Payments Europe, Limited](https://stripe.com), 1 Grand Canal Street Lower, Grand Canal Dock, Dublin, Ireland) uses Cookies for the payment process on our site.
-
-### Third-Party Platform Integrations
-
-We provide several platform integrations to show external content on our platform. In this case, the services’ terms of service and privacy policy do apply. Please review their terms and privacy policies when using a third-party service on our platform. We don’t own or control these integrations and and while trying to limit data collection where we can, we don’t exactly know what personal information these third-parties might collect and how they use it.
-
-In case Do-Not-Track (<abbr>DNT</abbr>) is enabled while attempting to view external content, we show a privacy warning that users can explicitly agree to. With DNT enabled, external services default to being inaccessible.
+We use local storage information such as (session) cookies to allow our users to sign in and to optionally “remember” the login data or to save generic preferences of users. Our payment providers ([Stripe Payments Europe, Limited](https://stripe.com), 1 Grand Canal Street Lower, Grand Canal Dock, Dublin, Ireland and [PayPal(Europe)](https://paypal.com), PayPal (Europe) S.à r.l. et Cie, S.C.A. 22-24 Boulevard Royal L-2449 Luxembourg) use Cookies for the payment process on our site.
 
 ### Financial Transactions
 
-For any financial transaction we use [Stripe Payments Europe, Limited](https://stripe.com), 1 Grand Canal Street Lower, Grand Canal Dock, Dublin, Ireland. The service provider will gather and process personal data required to process payments. For payments and related data to be processed and get verified, the terms and conditions and privacy policy of the payment provider apply. **Credit card numbers are never shared with us**, and thus, never stored by us.
+For any financial transaction we use [Stripe Payments Europe, Limited](https://stripe.com), 1 Grand Canal Street Lower, Grand Canal Dock, Dublin, Ireland or [PayPal(Europe)](https://paypal.com), PayPal (Europe) S.à r.l. et Cie, S.C.A. 22-24 Boulevard Royal L-2449 Luxembourg. The service provider will gather and process personal data required to process payments. For payments and related data to be processed and get verified, the terms and conditions and privacy policy of the payment provider apply. **Credit card numbers are never shared with us**, and thus, never stored by us.
+
+## Support
+
+For customer support we use [Drift.com, Inc.](https://www.drift.com/), 3 Copley Place Suite 7000 Boston, MA 02116 United States. Drift.com, Inc. will gather and process personal data required for the purpose of their service. The terms and conditions and privacy policy of Drift.com, Inc. apply in this case.
 
 ## Security
 
-Even though we would like to, we can’t promise you absolute security until the end of times. What we can guarantee, is that we keep your personal information as safe as possible and are doing our best to protect all data stored on Colloq. In case we will become aware of any sort of data breach, we will inform all affected users promptly.
+Even though we would like to, we can’t promise you absolute security until the end of times. What we can guarantee, is that we keep your personal information as safe as possible and are doing our best to protect all data stored on JustComments. In case we will become aware of any sort of data breach, we will inform all affected users promptly.
 
 ## Updates to the Privacy Policy
 
@@ -67,7 +88,7 @@ We may update this privacy policy in the future. If we make any material changes
 
 ---
 
-## Changelog
+## Attribution:
 
-- **May, 15th 2018:** We restructured our privacy policy to be easier to read, understand and to comply with the EU GDPR. We added useful information about what data we collect and why, how to access or delete your personal data, added information about our service providers and listed our third-party integrations.
-- **March, 23rd 2018:** Simpler and clearer language in the ‘security’ section and added Stripe as service provider for financial transactions.
+Parts of this document are adapted from [Colloq’s Terms of Service and Privacy Policy](https://github.com/colloq/terms), licensed under [Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/).
+The complete Privacy Policz of JustComments are therefore licensed under the same [Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/).
