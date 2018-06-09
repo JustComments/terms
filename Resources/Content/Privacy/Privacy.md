@@ -1,42 +1,39 @@
-title: Privacy Policy
-----
-
 ## In General
 
 **We try our best to minimise the data we collect.** We do not share your data with any third parties unless required to operate our service or separately agreed by you. We only use your personal data for the exact reason it was provided.
 
-In regards to you as a JustComments' account holder, JustComments acts a data controller. In regards to the users who comment using JustComments' widget that you place on your website, JustComments acts as a data processor. It means that you are required to obtain any necessary consents so that JustComments can process the data of your users. You have control over which data your users are allowed to enter via the widget, which may include the following:
+In regards to you as a JustComments' account holder, JustComments acts a data controller. In regards to the users who comment using JustComments' widget that you place on your website, JustComments acts as a <strong>data processor</strong>. It means that you are required to obtain any necessary consents so that JustComments can process the data of your users. You have control over which data your users are allowed to enter via the widget, which may include the following:
 
 - user website
-- userId
+- user ID
 - username
-- userPic
-- userUrl (profile page URL on a 3rd party website)
-- message (comment text)
-- subscription (for push notifications)
-- userAgent
-- userOrigin
-- userReferer
-- userIp
-- userEmail (as entered by the user)
-- locale
-- timezone
+- user picture URL
+- user URL (URL for a profile page of the user on a 3rd party site)
+- message (the comment text)
+- subscription (technical data needed for push notifications)
+- user agent (value of User-Agent header)
+- origin (value of Origin header)
+- referrer (value of Referrer header)
+- user IP
+- user email
+- user locale
+- user timezone
 
-This data is stored as part of a user comment, meaning that we don't create user accounts for users who comment. Therefore, it might not be possible to identify if different comments are created by the same user.
+This data is stored as part of a user comment, meaning that we don't create user accounts for users who comment. Therefore, it is not possible to identify if different comments are created by the same user.
 
 The following data is publicly available on the Internet along with the comments:
 
-- userId
+- user ID
 - username
-- userPic
-- userUrl (profile page URL on a 3rd party website)
-- message (comment text)
+- user picture URL
+- user URL (URL for a profile page of the user on a 3rd party site)
+- message (the comment text)
 
 ## Personal Information Collection
 
-If you create an account, we are required to collect personal data from you in order to provide you with our service. **We only require a bare minimum of data** but may allow you to optionally store additional personal information to enhance your experience or personal profile page. 
+If you create an account, we are required to collect personal data from you in order to provide you with our service. **We only require a bare minimum of data** but may allow you to optionally store additional personal information to enhance your experience or personal profile page.
 
-We may collect the following personal information: 
+We may collect the following personal information:
 
 - Contact information, such as your name, email address
 - Billing information, such as the billing address and VAT ID

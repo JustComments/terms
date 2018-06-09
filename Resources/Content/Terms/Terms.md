@@ -1,7 +1,3 @@
-title: Terms and Conditions
-----
-content:
-
 ## Introduction
 
 Welcome to our Terms of Service. We try to keep this document as short and as readable for you as possible.
@@ -10,7 +6,7 @@ The following terms and conditions apply to all services and products of JustCom
 
 We require you to have read and agreed to our terms of service and our privacy policy without exception. By accessing and using our services, you agree to be bound by the following Terms of Service. If you do not agree, you may not use any of our services. Any offer made by JustComments to you is bound to the acceptance of the same agreements. JustComments’s services are only available for human individuals who are at least 16 years old.
 
-**Summary:**   
+**Summary:**
 **JustComments is operated by Oleksii Rudenko, a sole trader Oleksii Rudenko registered under the German laws, and by using our service you accept our agreements without condition.**
 
 ## Definitions
@@ -30,25 +26,25 @@ You are responsible to ensure that your use of the Service complies with the law
 
 You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, or access to the Service without JustComments’s express written permission. You may not extract any data from our Website, especially by using an automated process for commercial (i.e. directly or indirectly in connection with any business, or other undertaking intended for profit) or spamming purposes, including for the purposes of selling JustComments users' personal information, such as to recruiters, headhunters, and job boards. You agree not to engage in any activity that significantly harms our users. We will resolve disputes in favor of protecting our users as a whole.
 
-**Summary:**   
+**Summary:**
 **You undertake to use our services exclusively for legal and authorized purposes in accordance with applicable laws and regulations.**
 
 ## Visitor’s Responsibilities
 
 JustComments is not able to review all User-Generated Content and therefore cannot be held liable for content that we haven’t created. We do not represent or endorse content published by others. It may therefore be possible that the Service contains harassing, offensive, violent content or harmful, destructive content like viruses or trojans. JustComments may contain content that violates copyright, laws, publicity rights of third-parties parties. If you encounter any such content please [inform us immediately](mailto:alex@just-comments.com).
 
-**Summary:**   
+**Summary:**
 **JustComments is not responsible for content published by others and cannot be held liable for any damages caused by such content.**
 
 ## Third-Party Data Sharing
 
 JustComments’ software is hosted in North Virginina, USA on Amazon AWS. We use a third-party provider to collect payments for purchases or subscriptions. You agree to use the External Services at your sole risk.
 
-The service of JustComments can be enhanced by signing in to third-party services. The terms of service and privacy policy of those third-party services apply. JustComments may not be held liable for your use of any of these third-party services, including those that have a link on our Website. 
+The service of JustComments can be enhanced by signing in to third-party services. The terms of service and privacy policy of those third-party services apply. JustComments may not be held liable for your use of any of these third-party services, including those that have a link on our Website.
 
 JustComments shares the minimum amount of data necessary with these services. By connecting to them, you grant JustComments the right to use and store the public information that is available to us.
 
-**Summary:**   
+**Summary:**
 **We use third party services to operate JustComments. We try to share and store as little information as possible.**
 
 ## Your Account
@@ -57,11 +53,11 @@ Using our Service and accessing your Content may require an account. You are res
 
 Users can delete their account at any time. If You do, We will do our best to keep the sole data needed to ensure continuity of the Service. You acknowledge that caching, backups or references to the content may not be made immediately unavailable. Backups are securely stored for one month before they will be deleted.
 
-We may suspend or terminate your account in case of infringement of the Agreements or in case of a period of inactivity of 6 or more month. Your data (i.e. comments) will be made available to You shortly after the termination. After You receive a copy of your data, the data will be deleted from JustComments' services. 
+We may suspend or terminate your account in case of infringement of the Agreements or in case of a period of inactivity of 6 or more month. Your data (i.e. comments) will be made available to You shortly after the termination. After You receive a copy of your data, the data will be deleted from JustComments' services.
 
 However, certain provisions of these Agreements shall survive termination.
 
-**Summary:**   
+**Summary:**
 **You are responsible for the actions that are performed by the account that we provide to you. JustComments and yourself can terminate your account at any time.**
 
 ## Intellectual Property
@@ -70,7 +66,7 @@ Users are not allowed to share any illegal, offensive, sexually obscene, fraudul
 
 You retain ownership of and responsibility for content you create even if it does not belong to you. You grant Us and our legal successors the right to store and display your Content and make incidental copies as necessary to render the Website and provide the Service. By uploading content to JustComments, you hereby grant JustComments a worldwide, non-exclusive, royalty-free sublicenseable and transferable license to use, reproduce, distribute, prepare derivative works of, display, publish, adapt, make available online or electronically transmit, and perform the Content you post. We may edit and alter User-Generated Content to correct errors or remove inappropriate content at any time without notification. This license does not grant JustComments the right to sell your Content or otherwise distribute it outside of our Service.
 
-**Summary:**   
+**Summary:**
 **You grant us a non-exclusive and royalty-free right to use the content you generated in order to operate our services.**
 
 ## Payments
@@ -81,16 +77,16 @@ JustComments offers services through one-time purchases and subscriptions. The a
 
 ### Refunds
 
-Refunds are possible for the portion of the Service which has not been consumed yet. Trial (free) portion of the Service cannot be refunded. 
+Refunds are possible for the portion of the Service which has not been consumed yet. Trial (free) portion of the Service cannot be refunded.
 
-**Summary:**   
+**Summary:**
 **Prices and features might change at any time. Refunds are possible for non yet consumed portion of Services.**
 
 ## Content Posted On Other Websites
 
 The Service contains links to other websites. The contents of other websites, services, goods or advertisements that may be linked from the website are not maintained or controlled by JustComments. Therefore, JustComments is not responsible for the availability, content or accuracy of other websites. By leaving JustComments’s website through a link, we do not endorse or imply correctness of the content on the references’ sites. It is Your responsibility to protect yourself from linked websites. JustComments disclaims any responsibility for any harm resulting from Your use of non-JustComments websites and webpages.
 
-**Summary:**   
+**Summary:**
 **We are not responsible for content that we don’t own and control.**
 
 ## Security & Confidentiality
@@ -99,7 +95,7 @@ You will not attempt to disrupt or tamper with JustComments’s servers in any w
 
 We take security seriously and we expect people who find any data leak or security issue to [contact Us](mailto:alex@just-comments.com) immediately in private and share the details only with Us to keep our Users safe.
 
-**Summary:**   
+**Summary:**
 **Any security breaches found must be privately reported to us.**
 
 ## Agreement Changes
@@ -108,16 +104,16 @@ We reserve the right, at our sole discretion, to change, extend or remove conten
 
 For any modifications, by continuing to use our Services, you agree to be bound by these Terms of Service as modified.
 
-**Summary:**   
+**Summary:**
 **We may modify this agreement without notice, unless the amendments are related to pricing changes in which case we will respect a 14 days’ notice.**
 
 ## Disclaimer of Warranties
 
-Our Services are provided “as is”. JustComments and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither JustComments nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted. We may not be held liable if our Service is, temporarily or definitively, suspended or shut down. 
+Our Services are provided “as is”. JustComments and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither JustComments nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted. We may not be held liable if our Service is, temporarily or definitively, suspended or shut down.
 
 You understand that you download from, or otherwise obtain content or services through our Services at your own discretion and risk.
 
-**Summary:**   
+**Summary:**
 **We provide our services “as is”. We make no promises or guarantees about this service.**
 
 ## Limitation of Liability
@@ -129,14 +125,14 @@ In no event will We be liable with respect to any subject matter of this Agreeme
 3. for interruption of use or loss or corruption of data; or
 4. for any amounts that exceed the fees paid by you to JustComments under this agreement during the twelve (12) month period prior to the cause of action. JustComments shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
 
-**Summary:**   
+**Summary:**
 **JustComments will not be liable for any damage or loss emerging from your use or inability to use our services or otherwise arising under these agreements.**
 
 ## Indemnification
 
-You agree to indemnify and hold harmless JustComments or Oleksii Rudenko, its contractors, and its licensors, and their respective directors, officers, employees, and agents from and against any and all claims and expenses, including attorneys’ fees, arising out of your use of our Services, including but not limited to your violation of this Agreement. This defense and indemnification obligation will survive these Agreements and your use of the Service. 
+You agree to indemnify and hold harmless JustComments or Oleksii Rudenko, its contractors, and its licensors, and their respective directors, officers, employees, and agents from and against any and all claims and expenses, including attorneys’ fees, arising out of your use of our Services, including but not limited to your violation of this Agreement. This defense and indemnification obligation will survive these Agreements and your use of the Service.
 
-**Summary:**   
+**Summary:**
 **You alone are responsible for your use of our services. If you harm someone else or get into a dispute with someone else, we will not be involved.**
 
 ## Miscellaneous
@@ -149,7 +145,7 @@ If any part of this Agreement is held invalid or unenforceable, that part will b
 
 You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; JustComments may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.
 
-This Agreement contains section titles and brief summaries of the terms and conditions. These are not part of the official terms and therefore are not legally binding. 
+This Agreement contains section titles and brief summaries of the terms and conditions. These are not part of the official terms and therefore are not legally binding.
 
 This Agreement represents the complete and exclusive statement between you and us. This Agreement supersedes any oral or written proposal or prior agreements, and any other communications between you and JustComments.
 
