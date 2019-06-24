@@ -57,7 +57,7 @@ While we are currently hosting our services in Northern Virginia, US, we may exp
 
 ### Emails
 
-We will occasionally use your name and/or email address to send you newsletters or transactional emails. We may send you transactional emails in order to fulfill our service agreement and provide you the requested information. You can opt-out of any marketing or other emails not required to operate our service safely and in compliance to laws at any time via the ‘unsubscribe’ link in each email. For sending transactional emails we use [Amazon SES](https://aws.amazon.com/ses/) by Amazon Web Services, Inc. (410 Terry Ave North, Seattle, WA 98109-5210, United States of America), currently using their North Virginia SES location for which their terms and conditions and their privacy policy applies. For sending newsletters we use Mailjet inc, 13-13 bis, rue de l’Aubrac 75012 Paris, France.
+We will occasionally use your name and/or email address to send you newsletters or transactional emails. We may send you transactional emails in order to fulfill our service agreement and provide you the requested information. You can opt-out of any marketing or other emails not required to operate our service safely and in compliance to laws at any time via the ‘unsubscribe’ link in each email. For sending transactional and marketing emails we use [Amazon SES](https://aws.amazon.com/ses/) by Amazon Web Services, Inc. (410 Terry Ave North, Seattle, WA 98109-5210, United States of America), currently using their North Virginia SES location for which their terms and conditions and their privacy policy applies.
 
 ### Analytics
 
@@ -69,11 +69,8 @@ We use local storage information such as (session) cookies to allow our users to
 
 ### Financial Transactions
 
-For any financial transaction we use [Stripe Payments Europe, Limited](https://stripe.com), 1 Grand Canal Street Lower, Grand Canal Dock, Dublin, Ireland or [PayPal(Europe)](https://paypal.com), PayPal (Europe) S.à r.l. et Cie, S.C.A. 22-24 Boulevard Royal L-2449 Luxembourg. The service provider will gather and process personal data required to process payments. For payments and related data to be processed and get verified, the terms and conditions and privacy policy of the payment provider apply. **Credit card numbers are never shared with us**, and thus, never stored by us.
+For any financial transaction we use [Stripe Payments Europe, Limited](https://stripe.com), 1 Grand Canal Street Lower, Grand Canal Dock, Dublin, Ireland. The service provider will gather and process personal data required to process payments. For payments and related data to be processed and get verified, the terms and conditions and privacy policy of the payment provider apply. **Credit card numbers are never shared with us**, and thus, never stored by us.
 
-## Support
-
-For customer support we use [Drift.com, Inc.](https://www.drift.com/), 3 Copley Place Suite 7000 Boston, MA 02116 United States. Drift.com, Inc. will gather and process personal data required for the purpose of their service. The terms and conditions and privacy policy of Drift.com, Inc. apply in this case.
 
 ## Security
 
